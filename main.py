@@ -16,7 +16,7 @@ def read_root():
             </style>
         </head>
         <body>
-            <h1>🚀 Broken App</h1>
+            <h1>🚀 CI/CD Test Application</h1>
             <p>Pipeline Status: <span class="status">SUCCESSFULLY DEPLOYED & RUNNING!</span></p>
         </body>
     </html>
